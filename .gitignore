@@ -1,5 +1,6 @@
+# env file
+.env
+
 #Virtual Env
 env/
 
-# data
-data/A_Chatbot_for_Information_Security
