@@ -7,3 +7,6 @@ env/
 #vector store
 faiss/
 
+#quantized model
+models/
+
