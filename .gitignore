@@ -4,3 +4,6 @@
 #Virtual Env
 env/
 
+#vector store
+faiss/
+
