@@ -10,3 +10,6 @@ faiss/
 #quantized model
 models/
 
+#data
+data/
+
